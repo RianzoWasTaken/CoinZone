@@ -1,0 +1,15 @@
+---
+name: CoinZone
+version: 2.0.0
+main: RianzoWasTaken\CoinZone\CoinZone
+api: [5.0.0]
+author: RianzoWasTaken
+commands:
+  coinzone:
+    description: adding free coin at your server like a zone when player afk
+    permission: coinzone
+permissions:
+  coinzone:
+    default: op
+
+...
