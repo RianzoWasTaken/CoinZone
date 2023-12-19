@@ -3,7 +3,7 @@ name: CoinZone
 version: 2.0.0
 main: RianzoWasTaken\CoinZone\CoinZone
 api: [5.0.0]
-author: RianzoWasTaken
+author: Nyrok - (Fix Error by rianzo)
 commands:
   coinzone:
     description: adding free coin at your server like a zone when player afk
